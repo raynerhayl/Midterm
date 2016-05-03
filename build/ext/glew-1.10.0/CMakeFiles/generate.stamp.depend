@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Users/hayle/git/COMP308_A3/Assignment_2/work/ext/glew-1.10.0/CMakeLists.txt
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CMakeParseArguments.cmake

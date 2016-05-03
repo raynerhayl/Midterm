@@ -1,0 +1,76 @@
+﻿  main.cpp
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(81): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(85): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(86): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(96): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(107): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(108): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(103): warning C4100: 'win': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(143): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(141): warning C4100: 'xoffset': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(141): warning C4100: 'win': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(164): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(166): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(168): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(170): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(156): warning C4100: 'mods': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(156): warning C4100: 'scancode': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(156): warning C4100: 'win': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(180): warning C4100: 'c': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(180): warning C4100: 'win': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(195): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(196): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\main.cpp(308): warning C4553: '==': operator has no effect; did you intend '='?
+  skeleton.cpp
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_geometry.hpp(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_geometry.hpp(41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_geometry.hpp(22): warning C4100: 'wire': unreferenced formal parameter
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_geometry.hpp(87): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_geometry.hpp(98): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_geometry.hpp(78): warning C4100: 'wire': unreferenced formal parameter
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(65): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_math.hpp(1034): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(124): note: see reference to function template instantiation 'auto cgra::operator *<int,float>(T1,const cgra::vector3<float> &)' being compiled
+          with
+          [
+              T1=int
+          ]
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(157): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(158): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(166): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(167): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(168): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(177): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(178): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(219): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(220): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(221): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(238): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(245): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(252): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(255): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(301): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(473): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(474): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(596): warning C4458: declaration of 'frame' hides class member
+  c:\users\hayle\git\comp308_a3\assignment_2\work\src\skeleton.hpp(76): note: see declaration of 'Skeleton::frame'
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_math.hpp(805): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(127): note: see reference to function template instantiation 'cgra::vector3<float>::vector3<double>(const cgra::vector3<double> &)' being compiled
+  C:\Users\hayle\git\COMP308_A3\Assignment_2\work\src\skeleton.cpp(124): note: see reference to function template instantiation 'cgra::vector3<float>::vector3<double>(const cgra::vector3<double> &)' being compiled
+c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_math.hpp(826): warning C4189: 'sum': local variable is initialized but not referenced
+  c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_math.hpp(825): note: while compiling class template member function 'cgra::vector3<float> cgra::vector3<float>::checknan(const cgra::vector3<float> &)'
+  c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_math.hpp(936): note: see reference to function template instantiation 'cgra::vector3<float> cgra::vector3<float>::checknan(const cgra::vector3<float> &)' being compiled
+  c:\users\hayle\git\comp308_a3\assignment_2\work\src\cgra_geometry.hpp(51): note: see reference to class template instantiation 'cgra::vector3<float>' being compiled
+  Generating Code...
+  a2.vcxproj -> C:\Users\hayle\git\COMP308_A3\Assignment_2\build\bin\Release\a2.exe

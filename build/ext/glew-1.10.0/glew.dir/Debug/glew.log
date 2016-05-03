@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/hayle/git/COMP308_A3/Assignment_2/work/ext/glew-1.10.0/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\hayle\git\COMP308_A3\Assignment_2\build\ext\glew-1.10.0\CMakeFiles\generate.stamp is up-to-date.
+  glew.c
+  glew.vcxproj -> C:\Users\hayle\git\COMP308_A3\Assignment_2\build\bin\Debug\glew.lib

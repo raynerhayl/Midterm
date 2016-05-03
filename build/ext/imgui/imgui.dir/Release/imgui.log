@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/hayle/git/COMP308_A3/Assignment_2/work/ext/imgui/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\hayle\git\COMP308_A3\Assignment_2\build\ext\imgui\CMakeFiles\generate.stamp is up-to-date.
+  imgui.cpp
+  imgui_demo.cpp
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\ext\imgui\imgui_demo.cpp(219): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\ext\imgui\imgui_demo.cpp(257): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\hayle\git\COMP308_A3\Assignment_2\work\ext\imgui\imgui_demo.cpp(955): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  imgui_draw.cpp
+  Generating Code...
+  imgui.vcxproj -> C:\Users\hayle\git\COMP308_A3\Assignment_2\build\bin\Release\imgui.lib

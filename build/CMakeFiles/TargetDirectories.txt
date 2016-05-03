@@ -1,0 +1,8 @@
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/ext/glfw/CMakeFiles/uninstall.dir
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/ext/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/ext/imgui/CMakeFiles/imgui.dir
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/src/CMakeFiles/a2.dir
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/ext/glew-1.10.0/CMakeFiles/glew.dir
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/ext/glfw/src/CMakeFiles/glfw.dir
+C:/Users/hayle/git/COMP308_A3/Assignment_2/build/res/CMakeFiles/res.dir
